@@ -1,0 +1,1 @@
+Standalone multipage HTML prototype. Shared styles.css and app.js. No build step required.
